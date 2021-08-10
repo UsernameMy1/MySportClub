@@ -19,7 +19,7 @@ if( have_posts()):
 ?>
         <section class="trainers">
             <div class="wrapper">
-                <h1 class="main-heading trainers__h">Тренеры</h1>
+                <h1 class="main-heading trainers__h">Тренерыыы</h1>
                 <ul class="trainers-list">
 <?php
     while(have_posts()):
